@@ -1,4 +1,4 @@
-﻿# weather-prediction
+﻿# Weather Prediction
 
 ## BEFORE ENTERING THE CITY NAME
 ![Screenshot (152)](https://github.com/user-attachments/assets/48364499-b1b6-4f49-ac01-99531c27b1e3)
